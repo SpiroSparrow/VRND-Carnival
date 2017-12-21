@@ -14,7 +14,7 @@ The end goal of this project is to customize the Udacity Carnival project, which
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+For the versions available, see [repository](https://github.com/SpiroSparrow/VRND-Carnival.git).
 
 ## Authors
 
